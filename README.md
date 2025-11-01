@@ -37,7 +37,7 @@ Retrieve all successful bookings.
 
 - List incomplete rides along with reasons.
 
-📊 ## Power BI Dashboard Insights
+## Power BI Dashboard Insights
 Developed an interactive Power BI dashboard to visualize and interpret trends using DAX measures and calculated columns:
 
 - Ride Volume Over Time

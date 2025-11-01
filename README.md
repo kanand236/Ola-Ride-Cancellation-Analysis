@@ -82,7 +82,9 @@ This end-to-end analytics project demonstrates how data insights can help optimi
 
 ## Connect with Me 
 **Anand Kumar** 
+
 Gmail - Anandkgzb3@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/anand-kumar-201106297/
 
  
